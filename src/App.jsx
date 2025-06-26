@@ -13,7 +13,6 @@ function App() {
   return (
     <div className='App'>
       <Provider store={Store}>
-        <h2>Hai Hello</h2>
       <h2>Add Customer</h2>
       <AddCustomer/>
       <ViewCustomer/>
